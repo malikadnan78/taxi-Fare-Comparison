@@ -1,0 +1,40 @@
+02-04-2024 10:12:24 - INFO  - 8.2.7 - 7.3 MB/1 GB - [cron] > Start upgrade from 8.2.1
+02-04-2024 10:12:24 - INFO  - 8.2.7 - 7.6 MB/1 GB - [cron] > Array
+(
+    [`wp_newsletter_emails`] => Created table `wp_newsletter_emails`
+)
+
+02-04-2024 10:12:24 - INFO  - 8.2.7 - 7.6 MB/1 GB - [cron] > Array
+(
+    [`wp_newsletter_sent`] => Created table `wp_newsletter_sent`
+)
+
+02-04-2024 10:12:24 - INFO  - 8.2.7 - 7.6 MB/1 GB - [cron] > Array
+(
+    [`wp_newsletter`] => Created table `wp_newsletter`
+)
+
+02-04-2024 10:12:24 - INFO  - 8.2.7 - 7.6 MB/1 GB - [cron] > Array
+(
+    [`wp_newsletter_user_logs`] => Created table `wp_newsletter_user_logs`
+)
+
+02-04-2024 10:12:24 - INFO  - 8.2.7 - 7.6 MB/1 GB - [cron] > Array
+(
+    [`wp_newsletter_user_meta`] => Created table `wp_newsletter_user_meta`
+)
+
+02-04-2024 10:12:24 - INFO  - 8.2.7 - 7.6 MB/1 GB - [cron] > Array
+(
+    [`wp_newsletter_stats`] => Created table `wp_newsletter_stats`
+)
+
+02-04-2024 10:12:24 - INFO  - 8.2.7 - 7.6 MB/1 GB - [cron] > Array
+(
+    [`wp_newsletter_logs`] => Created table `wp_newsletter_logs`
+    [wp_newsletter_logs.status] => Changed type of wp_newsletter_logs.status from int(11) to int
+)
+
+02-04-2024 10:12:24 - INFO  - 8.2.7 - 7.6 MB/1 GB - [cron] > Deleting settings backup newsletter_backup_7.9.1
+02-04-2024 10:12:24 - INFO  - 8.2.7 - 7.6 MB/1 GB - [cron] > Backing up options of 8.2.1
+02-04-2024 10:12:24 - INFO  - 8.2.7 - 7.6 MB/1 GB - [cron] > End

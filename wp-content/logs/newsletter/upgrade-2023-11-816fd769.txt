@@ -1,0 +1,33 @@
+22-11-2023 07:29:39 - INFO  - 8.0.4 - 5.7 MB/1 GB - admin > Start upgrade from 7.9.1
+22-11-2023 07:29:39 - INFO  - 8.0.4 - 5.8 MB/1 GB - admin > Array
+(
+    [`wp_newsletter_emails`] => Created table `wp_newsletter_emails`
+)
+
+22-11-2023 07:29:39 - INFO  - 8.0.4 - 5.8 MB/1 GB - admin > Array
+(
+    [`wp_newsletter_sent`] => Created table `wp_newsletter_sent`
+)
+
+22-11-2023 07:29:39 - INFO  - 8.0.4 - 5.8 MB/1 GB - admin > Array
+(
+    [`wp_newsletter`] => Created table `wp_newsletter`
+)
+
+22-11-2023 07:29:39 - INFO  - 8.0.4 - 5.8 MB/1 GB - admin > Array
+(
+    [`wp_newsletter_user_logs`] => Created table `wp_newsletter_user_logs`
+)
+
+22-11-2023 07:29:39 - INFO  - 8.0.4 - 5.8 MB/1 GB - admin > Array
+(
+    [`wp_newsletter_user_meta`] => Created table `wp_newsletter_user_meta`
+)
+
+22-11-2023 07:29:39 - INFO  - 8.0.4 - 5.8 MB/1 GB - admin > Array
+(
+    [`wp_newsletter_stats`] => Created table `wp_newsletter_stats`
+)
+
+22-11-2023 07:29:39 - INFO  - 8.0.4 - 5.8 MB/1 GB - admin > Backing up options of 7.9.1
+22-11-2023 07:29:39 - INFO  - 8.0.4 - 5.8 MB/1 GB - admin > End

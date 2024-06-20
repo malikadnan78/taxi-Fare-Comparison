@@ -1,0 +1,39 @@
+13-05-2024 12:26:53 - INFO  - 8.3.2 - 7.2 MB/1 GB - [cron] > Start upgrade from 8.2.7
+13-05-2024 12:26:53 - INFO  - 8.3.2 - 7.3 MB/1 GB - [cron] > Array
+(
+    [`wp_newsletter_emails`] => Created table `wp_newsletter_emails`
+)
+
+13-05-2024 12:26:53 - INFO  - 8.3.2 - 7.3 MB/1 GB - [cron] > Array
+(
+    [`wp_newsletter_sent`] => Created table `wp_newsletter_sent`
+)
+
+13-05-2024 12:26:53 - INFO  - 8.3.2 - 7.3 MB/1 GB - [cron] > Array
+(
+    [`wp_newsletter`] => Created table `wp_newsletter`
+)
+
+13-05-2024 12:26:53 - INFO  - 8.3.2 - 7.3 MB/1 GB - [cron] > Array
+(
+    [`wp_newsletter_user_logs`] => Created table `wp_newsletter_user_logs`
+)
+
+13-05-2024 12:26:53 - INFO  - 8.3.2 - 7.3 MB/1 GB - [cron] > Array
+(
+    [`wp_newsletter_user_meta`] => Created table `wp_newsletter_user_meta`
+)
+
+13-05-2024 12:26:53 - INFO  - 8.3.2 - 7.3 MB/1 GB - [cron] > Array
+(
+    [`wp_newsletter_stats`] => Created table `wp_newsletter_stats`
+)
+
+13-05-2024 12:26:53 - INFO  - 8.3.2 - 7.3 MB/1 GB - [cron] > Array
+(
+    [`wp_newsletter_logs`] => Created table `wp_newsletter_logs`
+    [wp_newsletter_logs.status] => Changed type of wp_newsletter_logs.status from int(11) to int
+)
+
+13-05-2024 12:26:53 - INFO  - 8.3.2 - 7.3 MB/1 GB - [cron] > Backing up options of 8.2.7
+13-05-2024 12:26:53 - INFO  - 8.3.2 - 7.3 MB/1 GB - [cron] > End

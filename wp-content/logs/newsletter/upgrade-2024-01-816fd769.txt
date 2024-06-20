@@ -1,0 +1,33 @@
+17-01-2024 07:53:47 - INFO  - 8.0.7 - 5.8 MB/1 GB - [cron] > Start upgrade from 8.0.6
+17-01-2024 07:53:47 - INFO  - 8.0.7 - 5.9 MB/1 GB - [cron] > Array
+(
+    [`wp_newsletter_emails`] => Created table `wp_newsletter_emails`
+)
+
+17-01-2024 07:53:47 - INFO  - 8.0.7 - 5.9 MB/1 GB - [cron] > Array
+(
+    [`wp_newsletter_sent`] => Created table `wp_newsletter_sent`
+)
+
+17-01-2024 07:53:47 - INFO  - 8.0.7 - 5.9 MB/1 GB - [cron] > Array
+(
+    [`wp_newsletter`] => Created table `wp_newsletter`
+)
+
+17-01-2024 07:53:47 - INFO  - 8.0.7 - 5.9 MB/1 GB - [cron] > Array
+(
+    [`wp_newsletter_user_logs`] => Created table `wp_newsletter_user_logs`
+)
+
+17-01-2024 07:53:47 - INFO  - 8.0.7 - 5.9 MB/1 GB - [cron] > Array
+(
+    [`wp_newsletter_user_meta`] => Created table `wp_newsletter_user_meta`
+)
+
+17-01-2024 07:53:47 - INFO  - 8.0.7 - 5.9 MB/1 GB - [cron] > Array
+(
+    [`wp_newsletter_stats`] => Created table `wp_newsletter_stats`
+)
+
+17-01-2024 07:53:47 - INFO  - 8.0.7 - 5.9 MB/1 GB - [cron] > Backing up options of 8.0.6
+17-01-2024 07:53:47 - INFO  - 8.0.7 - 5.9 MB/1 GB - [cron] > End

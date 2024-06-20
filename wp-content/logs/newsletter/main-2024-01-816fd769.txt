@@ -1,0 +1,1 @@
+14-01-2024 12:54:19 - ERROR - 8.0.6 - 5.8 MB/1 GB - [cron] > Blocked by transient newsletter_main_engine set 0 seconds ago by /home/pickdrop.co.uk/public_html/;vmi1326177.contaboserver.net
